@@ -1,0 +1,32 @@
+{
+  "name": "samples.restnio",
+  "version": "1.0.0",
+  "description": "Samples for the restnio.js project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RestNio/samples.restnio.js.git"
+  },
+  "keywords": [
+    "restnio",
+    "restnio.js",
+    "rest",
+    "api",
+    "dogs"
+  ],
+  "author": "7kasper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RestNio/samples.restnio.js/issues"
+  },
+  "homepage": "https://github.com/RestNio/samples.restnio.js#readme",
+  "dependencies": {
+    "bookshelf": "^0.14.2",
+    "knex": "^0.16.3",
+    "restnio": "github:RestNio/RestNio.js",
+    "sqlite3": "^4.0.4"
+  }
+}
